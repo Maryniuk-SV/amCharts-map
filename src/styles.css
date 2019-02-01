@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+svg {
+  background-color: #265274;
+}
+g[role="tooltip"] * {
+  pointer-events: all;
+  cursor: pointer;
+}
